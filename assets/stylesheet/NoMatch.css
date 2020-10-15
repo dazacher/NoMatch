@@ -4,8 +4,6 @@
 }
 
 body {
-    /* background-color:brown; */
-    /* background-color: rgb(140, 118, 160); */
     background-image: url("../images/halloween-background.jpg");
     height: 120vh;
     background-size: cover;
