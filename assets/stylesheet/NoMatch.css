@@ -6,7 +6,7 @@
 body {
     /* background-color:brown; */
     /* background-color: rgb(140, 118, 160); */
-    background-image: url("../assets/images/halloween-background.jpg");
+    background-image: url("../images/halloween-background.jpg");
     height: 120vh;
     background-size: cover;
     background-repeat: no-repeat;   
